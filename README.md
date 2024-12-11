@@ -27,12 +27,5 @@ Welcome to my GitHub!
 
 ---
 
-### 📫 Let's Connect!  
-- 💌 Email: [your-email@example.com](mailto:your-email@example.com)  
-- 🐦 Twitter: [@Luckyz](https://twitter.com/yourhandle)  
-- 💼 Discord: [Luckyz Server](https://discord.gg/)  
 
-<!---
-luckyz-z/luckyz-z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
