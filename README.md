@@ -1,7 +1,5 @@
-<!-- GitHub Profile README | Luckyz -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&center=true&vCenter=true&color=FF4A4A&lines=Hey%2C+I'm+Luckyz!;15+Years+Old+Dev+%F0%9F%92%BB;FiveM+Enthusiast+%F0%9F%95%B6%EF%B8%8F;Design+%26+Scripting+Lover%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&center=true&vCenter=true&color=FF4A4A&lines=Hey%2C+I'm+Luckyz!;15+Years+Old+Dev+%F0%9F%92%BB;FiveM+Enthusiast+%F0%9F%95%B6%EF%B8%8F;Design+%26+Scripting+Lover%E2%9C%A8" />
 </h1>
 
 <div align="center">
@@ -14,6 +12,7 @@
   <img src="https://img.shields.io/badge/Location-USA-lightgrey?style=for-the-badge" />
 </p>
 
+---
 
 ## 🧠 About Me
 
@@ -24,13 +23,16 @@
 - 💡 Love high-quality immersive scripts and UI systems
 - 🧩 Always building systems that feel **real**, **responsive**, and **smart**
 
+---
 
 ## 🔥 FiveM Specialties
 
-⚙️ Custom Systems 🎨 UI/UX Design (NUI, Tailwind)
-📡 vMenu + QBCore Dev 🛒 Shops, Scripts Ect
-🧠 Realism-Based Rules 🔊 And learning more daily!
+⚙️ Custom Systems 🎨 UI/UX Design (NUI, Tailwind)  
+📡 vMenu + QBCore Dev 🛒 Shops, Scripts Ect  
+🧠 Realism-Based Rules 🔊 And learning more daily!  
 🛣️ California-Style RP 💻 Performance & Optimized Scripting
+
+---
 
 ## 🚀 Languages & Tools
 
@@ -40,7 +42,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 
-
+---
 
 ## 🔧 Featured Projects
 
@@ -50,6 +52,32 @@
 | 💼 `VMenu RP` | Lore-friendly FiveM server with performance-focused scripts |
 | 🛒 `Advanced Shop System` | Full UI-themed shop script with NPC targeting & inventory integration |
 
+---
+
+## 🔥 My FiveM Work
+
+<p align="center">
+  <img src="https://i.ibb.co/zHxMgkM1/psrpbanner.png" alt="Palm Springs RP Banner" style="border-radius: 12px;"/>
+</p>
+
+> 🌴 **Palm Springs RP** → Lore-Friendly DOJ-Based Server  
+> 👨‍💻 I'm a developer here — helping build custom systems & UI  
+> 👮 Structured Law Enforcement | 🔫 Active Gangs | 🎮 vMenu-Based  
+> 🎨 I focus on immersive scripts, clean interfaces, and performance  
+
+---
+
+<p align="center">
+  <img src="https://i.postimg.cc/SNTWdHgJ/IMG-3131.gif" alt="WirelessRP Banner" style="border-radius: 12px;"/>
+</p>
+
+> 🏙️ **WirelessRP** → Los Angeles-Inspired RP (QBCore Framework)  
+> 🧠 I'm the **owner** — focused on realism, systems, and immersive gameplay  
+> 🚓 LEO/EMS/Crime | 💵 Custom Economy | 🧰 ox_lib, QBCore, & Custom HUDs  
+> 🚀 Join our community → [`discord.gg/wdrp`](https://discord.gg/wdrp)
+
+---
+
 
 ## 📊 GitHub Stats
 
@@ -58,9 +86,10 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyz-z&layout=compact&theme=radical&hide_border=true" />
   <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=luckyz-z&bg_color=0d1117&color=FF4A4A&line=ffffff&point=FF4A4A&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luckyz-z&bg_color=0d1117&color=FF4A4A&line=ffffff&point=FF4A4A&area=true&hide_border=true" />
 </div>
 
+---
 
 ## 🌐 Connect With Me
 
@@ -68,6 +97,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-luckyz--z-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luckyz-z)
 [![Support Server](https://img.shields.io/badge/VMenu%20Dev%20Team-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vmenu)
 
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4A4A&height=140&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=24&fontColor=ffffff" />
