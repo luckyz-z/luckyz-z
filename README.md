@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-- 🧒 I'm **Luckyz**, a 15-year-old dev with a passion for **clean code and creative design**
+- 🧒 I'm **Luckyz**, a dev with a passion for **clean code and creative design**
 - 🌴 Owner of **WirelessRP**, an LA-based FiveM server → [`discord.gg/wdrp`](https://discord.gg/wdrp)
 - 👮‍♂️ Developer for **VMenu RP** → [`discord.gg/vmenu`](https://discord.gg/vmenu)
 - ✍️ Learning `LUA`, `HTML`, `CSS`, and front-end systems
