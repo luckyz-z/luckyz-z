@@ -7,7 +7,6 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dev%20Age-15-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-FiveM%20%7C%20Design%20%7C%20LUA-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-USA-lightgrey?style=for-the-badge" />
 </p>
