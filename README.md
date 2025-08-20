@@ -16,8 +16,7 @@
 ## 🧠 About Me
 
 - 🧒 I'm **Luckyz**, a dev with a passion for **clean code and creative design**
-- 🌴 Owner of **WirelessRP**, an LA-based FiveM server → [`discord.gg/wdrp`](https://discord.gg/wdrp)
-- 👮‍♂️ Developer for **VMenu RP** → [`discord.gg/vmenu`](https://discord.gg/vmenu)
+- 🌴 Developer of **Response Roleplay**, a San Andreasbased FiveM server → [`discord.gg/rrp`](https://discord.gg/NjfEe7Caqu)
 - ✍️ Learning `LUA`, `HTML`, `CSS`, and front-end systems
 - 💡 Love high-quality immersive scripts and UI systems
 - 🧩 Always building systems that feel **real**, **responsive**, and **smart**
@@ -47,9 +46,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🎯 `WirelessRP` | Super realistic, LA-based QBCore server with top-tier realism |
-| 💼 `VMenu RP` | Lore-friendly FiveM server with performance-focused scripts |
-| 🛒 `Advanced Shop System` | Full UI-themed shop script with NPC targeting & inventory integration |
+
 
 ---
 
@@ -59,21 +56,10 @@
   <img src="https://i.ibb.co/zHxMgkM1/psrpbanner.png" alt="Palm Springs RP Banner" style="border-radius: 12px;"/>
 </p>
 
-> 🌴 **Palm Springs RP** → Lore-Friendly DOJ-Based Server  
+> 🌴 **Response Roleplay** → Lore-Friendly DOJ-Based Server  
 > 👨‍💻 I'm a developer here — helping build custom systems & UI  
 > 👮 Structured Law Enforcement | 🔫 Active Gangs | 🎮 vMenu-Based  
 > 🎨 I focus on immersive scripts, clean interfaces, and performance  
-
----
-
-<p align="center">
-  <img src="https://i.postimg.cc/SNTWdHgJ/IMG-3131.gif" alt="WirelessRP Banner" style="border-radius: 12px;"/>
-</p>
-
-> 🏙️ **WirelessRP** → Los Angeles-Inspired RP (QBCore Framework)  
-> 🧠 I'm the **owner** — focused on realism, systems, and immersive gameplay  
-> 🚓 LEO/EMS/Crime | 💵 Custom Economy | 🧰 ox_lib, QBCore, & Custom HUDs  
-> 🚀 Join our community → [`discord.gg/wdrp`](https://discord.gg/wdrp)
 
 ---
 
