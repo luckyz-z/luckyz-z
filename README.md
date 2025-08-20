@@ -53,7 +53,6 @@
 ## 🔥 My FiveM Work
 
 <p align="center">
-  <img src="https://i.ibb.co/zHxMgkM1/psrpbanner.png" alt="Palm Springs RP Banner" style="border-radius: 12px;"/>
 </p>
 
 > 🌴 **Response Roleplay** → Lore-Friendly DOJ-Based Server  
