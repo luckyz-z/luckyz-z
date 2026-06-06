@@ -1,88 +1,143 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&center=true&vCenter=true&color=FF4A4A&lines=Hey%2C+I'm+Luckyz!;15+Years+Old+Dev+%F0%9F%92%BB;FiveM+Enthusiast+%F0%9F%95%B6%EF%B8%8F;Design+%26+Scripting+Lover%E2%9C%A8" />
-</h1>
+# <div align="center">Caleb/Luckyz</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4A4A&height=140&section=header&text=Luckyz%20Dev%20Hub&fontAlign=50&fontSize=36&fontColor=ffffff" />
-</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-FiveM%20%7C%20Design%20%7C%20LUA-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-USA-lightgrey?style=for-the-badge" />
-</p>
+Building developer tools, programming languages, and modern web applications.
 
----
+[Tsundere Language](https://github.com/TsundereLang) • [GitHub](https://github.com/luckyz-z)
 
-## 🧠 About Me
-
-- 🧒 I'm **Luckyz**, a dev with a passion for **clean code and creative design**
-- 🌴 Developer of **Response Roleplay**, a San Andreasbased FiveM server → [`discord.gg/rrp`](https://discord.gg/NjfEe7Caqu)
-- ✍️ Learning `LUA`, `HTML`, `CSS`, and front-end systems
-- 💡 Love high-quality immersive scripts and UI systems
-- 🧩 Always building systems that feel **real**, **responsive**, and **smart**
-
----
-
-## 🔥 FiveM Specialties
-
-⚙️ Custom Systems 🎨 UI/UX Design (NUI, Tailwind)  
-📡 vMenu + QBCore Dev 🛒 Shops, Scripts Ect  
-🧠 Realism-Based Rules 🔊 And learning more daily!  
-🛣️ California-Style RP 💻 Performance & Optimized Scripting
-
----
-
-## 🚀 Languages & Tools
-
-![Lua](https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🔧 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-
-
----
-
-## 🔥 My FiveM Work
-
-<p align="center">
-</p>
-
-> 🌴 **Response Roleplay** → Lore-Friendly DOJ-Based Server  
-> 👨‍💻 I'm a developer here — helping build custom systems & UI  
-> 👮 Structured Law Enforcement | 🔫 Active Gangs | 🎮 vMenu-Based  
-> 🎨 I focus on immersive scripts, clean interfaces, and performance  
-
----
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luckyz-z&show_icons=true&theme=radical&border_radius=15&hide_border=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyz-z&layout=compact&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luckyz-z&bg_color=0d1117&color=FF4A4A&line=ffffff&point=FF4A4A&area=true&hide_border=true" />
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## About
 
-[![Discord](https://img.shields.io/badge/Discord-WirelessRP%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wdrp)
-[![GitHub](https://img.shields.io/badge/GitHub-luckyz--z-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luckyz-z)
-[![Support Server](https://img.shields.io/badge/VMenu%20Dev%20Team-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vmenu)
+I'm a 16 year old developer focused on building performant software, developer tooling, modern web applications, and FiveM resources.
+
+My interests include:
+
+* Programming language design
+* TypeScript ecosystem development
+* Frontend architecture
+* Developer tooling
+* Database systems
+* UI/UX engineering
+* Infrastructure and deployment
+
+---
+
+## Current Project
+
+### Tsundere Language
+
+Tsundere is a custom programming language focused on modern developer experience, tooling, and performance.
+
+**Organization:** https://github.com/TsundereLang
+
+#### Highlights
+
+* Custom language parser
+* CLI tooling
+* VS Code extension
+* Package management system
+* Runtime optimizations
+* Cross-platform support
+* TypeScript codebase
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,vite" />
+</p>
+
+* TypeScript
+* JavaScript
+* TSX
+* EJS
+* Yuri (Custom Language)
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
+### Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,nodejs" />
+</p>
+
+---
+
+## What I Build
+
+* Developer Tools
+* Programming Languages
+* Web Applications
+* Dashboards & Admin Panels
+* APIs & Backend Services
+* FiveM Resources
+* UI Systems
+* Database-Driven Applications
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luckyz-z&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyz-z&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=luckyz-z&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luckyz-z&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## Current Focus
+
+```txt
+Building............. Tsundere Language
+Frontend............ React / Vue / Vite
+Backend............. Node.js / TypeScript
+Databases........... MySQL / MongoDB / SQLite
+Infrastructure...... Docker
+Learning............ Language Design & Compiler Development
+```
+
+---
+
+## Organizations
+
+* https://github.com/TsundereLang
+
+---
+
+## Contact
+
+Discord: lckyz
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4A4A&height=140&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=24&fontColor=ffffff" />
+
+Building software, learning every day, and shipping projects.
+
 </div>
