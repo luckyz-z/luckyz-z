@@ -149,8 +149,4 @@
 ---
 ## Development Metrics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=luckyz-z&theme=tokyonight&hide_border=true"/>
-
-</div>
+[![wakatime](https://wakatime.com/badge/github/TsundereLang/tsundere.svg)](https://wakatime.com/badge/github/TsundereLang/tsundere)
