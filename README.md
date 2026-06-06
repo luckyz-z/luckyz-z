@@ -151,6 +151,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=luckyz-z&theme=tokyonight&hide_border=true"/>
 
 </div>
